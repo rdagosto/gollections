@@ -2,10 +2,16 @@
 
 Based on https://laravel.com/docs/12.x/collections
 
+## DONE:
+
+- All
+- Each
+- Filter
+- Map
+
 ## TODO:
 
 - after
-- all
 - average
 - avg
 - before
@@ -32,12 +38,10 @@ Based on https://laravel.com/docs/12.x/collections
 - dump
 - duplicates
 - duplicatesStrict
-- each
 - eachSpread
 - ensure
 - every
 - except
-- filter
 - first
 - firstOrFail
 - firstWhere
@@ -65,7 +69,6 @@ Based on https://laravel.com/docs/12.x/collections
 - lazy
 - macro
 - make
-- map
 - mapInto
 - mapSpread
 - mapToGroups
