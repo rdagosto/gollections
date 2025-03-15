@@ -1,5 +1,7 @@
 # Gollections
 
+Based on https://laravel.com/docs/12.x/collections
+
 ## TODO:
 
 - after
